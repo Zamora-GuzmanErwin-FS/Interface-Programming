@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CRS7uKdA2ltEfv9ntpfKVz/ztLYYCA775Vs4FvQ/UhDEjDSb83DtJ6+4eUymlPb94EgZy6IWruAQspWLeAVdPQ==",
+  "success": true,
+  "projectFilePath": "/Users/erwinzamora-guzman/Library/Mobile Documents/com~apple~CloudDocs/Full Sail/14.Interface Programming/Prologue/Test/Test.iOS/Test.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/erwinzamora-guzman/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/erwinzamora-guzman/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/erwinzamora-guzman/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
